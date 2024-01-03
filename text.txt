@@ -1,2 +1,6 @@
 hi
+<<<<<<< HEAD
 bonjour
+=======
+hola
+>>>>>>> feature/test2
